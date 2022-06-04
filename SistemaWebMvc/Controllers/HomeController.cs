@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using SistemaWebMvc.Models.ViewModels;
 
 namespace SistemaWebMvc.Controllers
 {
